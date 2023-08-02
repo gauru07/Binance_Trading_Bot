@@ -1,0 +1,14 @@
+parameters,value
+binance_api_key,6Kl8M87fbW8wYUmk67pe3fcDBJS6JQYd9FTbi6nBBFwfDbG4dShSr91D99jetSs7
+binance_api_secret_key,IVpO02GvIlbwMOUTaNug730lzwgUugxEvprhTreY91IkJvNkWSscbWPySwYRFJTz
+stop_loss_precentage,4
+atr_trailing,2
+atr_trailing_multiplier,8
+atr_fixed,11
+atr_fixed_multiplier,2
+symbol_binance,BTCUSDT
+binance_X,1
+time_frame,1m
+X_bars_high,100
+X_bars_low,87
+bot,on
